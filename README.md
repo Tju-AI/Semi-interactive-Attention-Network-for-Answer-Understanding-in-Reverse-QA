@@ -1,0 +1,2 @@
+# Semi-interactive-Attention-Network-for-Answer-Understanding-in-Reverse-QA
+A new QA approach, called reverse-QA (rQA), is proposed . In rQA, the human answer understanding problem is investigated and solved by classifying the answers into predeﬁned answer-label categories (e.g., True, False, Uncertain). To explore the relationships between questions and answers, we use the interactive attention network (IAN) model and propose an improved structure called semi-interactive attention network (Semi-IAN). Two Chinese data sets for rQA are compiled. 
